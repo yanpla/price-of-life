@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": "minecraft:diamond",
+        "G": "minecraft:ghast_tear",
+        "A": "minecraft:amethyst_shard"
+    },
+    "pattern": [
+        "DGD",
+        " A "
+    ],
+
+    "result": {
+        "count": 1,
+        "id": "minecraft:knowledge_book"
+    }
+}

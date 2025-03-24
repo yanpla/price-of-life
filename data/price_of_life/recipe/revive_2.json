@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": "minecraft:diamond",
+        "G": "minecraft:ghast_tear",
+        "N": "minecraft:netherite_scrap",
+        "T": "minecraft:totem_of_undying"
+    },
+    "pattern": [
+        "DGD",
+        "NTN",
+        "DGD"
+    ],
+
+    "result": {
+        "count": 1,
+        "id": "minecraft:knowledge_book"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "price_of_life:revive_3"
+            }
+        }
+    },
+    "rewards": {
+        "function": "price_of_life:revive_trinket"
+    }
+}
