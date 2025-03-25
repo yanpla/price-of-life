@@ -12,4 +12,4 @@ effect give @s minecraft:hunger 300 1 true
 
 clear @s minecraft:knowledge_book
 
-give @s ghast_tear[custom_name='["",{"text":"Revive Trinket","color":"dark_red"}]',lore=['["Revives ghosts touching this item when dropped."]','[""]','["",{"text":"Recipe veranderd per keer dat je dit craft,","italic":false,"bold":true,"color":"dark_green"}]'],custom_data={Revive:1},enchantments={levels:{vanishing_curse:1}}] 1
+give @s ghast_tear[custom_name=[{"text":"Revive Trinket","color":"dark_red"}],lore=[[{"text":"Revives ghosts touching this item when dropped."}],[{"text":"Recipe veranderd per keer dat je dit craft,","italic":false,"bold":true,"color":"dark_green"}]],custom_data={Revive:1},enchantments={"minecraft:vanishing_curse":1}] 1
